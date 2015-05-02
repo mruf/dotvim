@@ -1,2 +1,4 @@
 # ignore swap files
 *.swp
+# ignore vim history file
+.netrwhist
