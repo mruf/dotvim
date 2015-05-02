@@ -4,7 +4,7 @@
 
 **Clone the vim config repo into the home directory**  
 cd ~  
-git clone http://github.com/v/dotvim.git ~/.vim  
+git clone http://github.com/mruf/dotvim.git ~/.vim  
 **Create symlinks**  
 ln -s ~/.vim/vimrc ~/.vimrc  
 ln -s ~/.vim/gvimrc ~/.gvimrc 
