@@ -28,7 +28,7 @@ git submodule add https://github.com/scrooloose/nerdtree.git
 git add .  
 git push  
 
-**Ignore changes in submodule**  
+**Ignore local changes in submodule**  
 Using the plugins will make changes to submodule's file tree.  
 To prevent that, add _ignore = dirty_ to the submodule's definition in .gitmodules file.  
 Example:  
