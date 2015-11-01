@@ -10,3 +10,6 @@
 	path = bundle/molokai
 	url = https://github.com/fatih/molokai.git
 	ignore = dirty
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
